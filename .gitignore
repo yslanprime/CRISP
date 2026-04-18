@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Local data, checkpoints, and outputs
+data/
+model_outputs/
+pretrained_model/
+processed_data/
+attention_analysis/
+accelerate/
+
+# Logs and temporary files
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+tmp/
+.tmp/
+*.tmp
+*.temp
+
+# Secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
