@@ -61,7 +61,7 @@ The figure below summarizes the end-to-end CRISP workflow from raw CoT generatio
 ## 📦 Repository Layout
 
 ```text
-.
+。
 |-- attention_plot/
 |   |-- attention_analysis.py
 |   `-- attention_analysis.sh
@@ -267,9 +267,13 @@ Helper functions for math-answer extraction and normalization used by the filter
 
 ## 📖 Citation
 
+If you find our work useful, please consider citing:
+
+```bibtex
 @article{lan2026crisp,
   title={CRISP: Compressing Redundancy in Chain-of-Thought via Intrinsic Saliency Pruning},
   author={Lan, Yangsong and Dai, Hongliang and Li, Piji},
   journal={arXiv preprint arXiv:2604.17297},
   year={2026}
 }
+```
