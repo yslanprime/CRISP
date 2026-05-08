@@ -267,4 +267,9 @@ Helper functions for math-answer extraction and normalization used by the filter
 
 ## 📖 Citation
 
-Citation metadata will be added after the public camera-ready release is finalized.
+@article{lan2026crisp,
+  title={CRISP: Compressing Redundancy in Chain-of-Thought via Intrinsic Saliency Pruning},
+  author={Lan, Yangsong and Dai, Hongliang and Li, Piji},
+  journal={arXiv preprint arXiv:2604.17297},
+  year={2026}
+}
