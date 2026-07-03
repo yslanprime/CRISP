@@ -270,10 +270,23 @@ Helper functions for math-answer extraction and normalization used by the filter
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{lan2026crisp,
-  title={CRISP: Compressing Redundancy in Chain-of-Thought via Intrinsic Saliency Pruning},
-  author={Lan, Yangsong and Dai, Hongliang and Li, Piji},
-  journal={arXiv preprint arXiv:2604.17297},
-  year={2026}
+@inproceedings{lan-etal-2026-crisp,
+    title = "{CRISP}: Compressing Redundancy in Chain-of-Thought via Intrinsic Saliency Pruning",
+    author = "Lan, Yangsong  and
+      Dai, Hongliang  and
+      Li, Piji",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1961/",
+    doi = "10.18653/v1/2026.findings-acl.1961",
+    pages = "39355--39373",
+    ISBN = "979-8-89176-395-1"
 }
 ```
